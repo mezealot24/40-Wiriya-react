@@ -5,7 +5,7 @@ const Ownerpage = () => {
 		<>
 			<main className="flex items-center justify-center">
 				<h1>Q - Genmate H - 40</h1>
-				<img src="./src/assets" />
+				<img src="40-Wiriya-react\src\assets\QMc.jpeg" />
 				<p>Sawadee ja </p>
 			</main>
 		</>
