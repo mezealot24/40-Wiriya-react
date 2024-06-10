@@ -5,7 +5,13 @@ const Ownerpage = () => {
 		<>
 			<main className="flex items-center justify-center">
 				<h1>Q - Genmate H - 40</h1>
-				<img src="40-Wiriya-react\src\assets\QMc.jpeg" />
+
+				<img
+					className="object-contain h-48 w-96"
+					src="./src/assets/QMc.jpeg"
+					alt="Q Image"
+				/>
+
 				<p>Sawadee ja </p>
 			</main>
 		</>
